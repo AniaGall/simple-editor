@@ -1,4 +1,4 @@
-![cover](./gh/gh.png)
+![cover](./GH/gh.png)
 
 # Simple-editor
 
